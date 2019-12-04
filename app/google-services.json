@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "882312058634",
+    "firebase_url": "https://foodapp-93536.firebaseio.com",
+    "project_id": "foodapp-93536",
+    "storage_bucket": "foodapp-93536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882312058634:android:802521cfdf90653579ccf3",
+        "android_client_info": {
+          "package_name": "com.Praewrung.projectnativemobilefoodservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882312058634-tj3jnnk8fc0bbi7rdfjhkoal4sv4t762.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Praewrung.projectnativemobilefoodservice",
+            "certificate_hash": "7621c89da5cd5055408f5583ab2a728113cb3be9"
+          }
+        },
+        {
+          "client_id": "882312058634-fjvssm86d24as30ud247oif99ba9biut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBklu4IzfrmmWPhZRE9GIARSIR6L45E5Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882312058634-fjvssm86d24as30ud247oif99ba9biut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882312058634:android:6c4b3e5f19603cac79ccf3",
+        "android_client_info": {
+          "package_name": "com.praewrung.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882312058634-j37vfq645vhc918ms8jgurfpdu3ouk5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.praewrung.food",
+            "certificate_hash": "7621c89da5cd5055408f5583ab2a728113cb3be9"
+          }
+        },
+        {
+          "client_id": "882312058634-fjvssm86d24as30ud247oif99ba9biut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBklu4IzfrmmWPhZRE9GIARSIR6L45E5Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882312058634-fjvssm86d24as30ud247oif99ba9biut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882312058634:android:ea7a8414fadd426679ccf3",
+        "android_client_info": {
+          "package_name": "com.praewrung.projectnativemobilefoodservice2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882312058634-sl2uejtgucnr44362gjsjq3ijje63pfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.praewrung.projectnativemobilefoodservice2",
+            "certificate_hash": "7621c89da5cd5055408f5583ab2a728113cb3be9"
+          }
+        },
+        {
+          "client_id": "882312058634-fjvssm86d24as30ud247oif99ba9biut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBklu4IzfrmmWPhZRE9GIARSIR6L45E5Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882312058634-fjvssm86d24as30ud247oif99ba9biut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

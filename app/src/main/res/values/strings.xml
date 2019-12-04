@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">foodService</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="signout">Sign out</string>
+</resources>
